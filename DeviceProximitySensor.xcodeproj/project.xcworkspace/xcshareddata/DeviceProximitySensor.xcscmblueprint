@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9DEA29E875496E4664B11910446D26148F34C416" : 0,
+    "4EDA6EE5FABB418F9FBFF8616F5EC4E585B44C2B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5B894C08-F765-4A00-95BF-0FE7DE169CD8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9DEA29E875496E4664B11910446D26148F34C416" : "",
+    "4EDA6EE5FABB418F9FBFF8616F5EC4E585B44C2B" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DeviceProximitySensor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DeviceProximitySensor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jonathanhammond\/Form-Example-Patches.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4EDA6EE5FABB418F9FBFF8616F5EC4E585B44C2B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jonathanhammond\/Proximity-Card-Shuffle.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DEA29E875496E4664B11910446D26148F34C416"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DeviceProximitySensor.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>DeviceProximitySensorFormPlugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>DeviceProximitySensorPerformPlugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>DeviceProximitySensorViewer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A0BF85911C1F3DB900FD0AF5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A0BF85951C1F3DB900FD0AF5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A0BF85AC1C1F3DBC00FD0AF5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A0BF85C01C1F3DBC00FD0AF5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
